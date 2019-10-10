@@ -44,7 +44,15 @@ For this interview, we have identified several repos that are in need of open-so
 
 You can of course contribute to any repo you'd like so long as the repo has a community of more than one person (meaning it can't just be your own repo with no other contributors or community).  If you are already a contributor to or maintainer of several community-based projects, this would be a natural place to start. We have identified several repos in several languages that are all in need of some love. Feel free to pick any or, if you're feeling ambitious, several!
 
-### JavaScript / TypeScript
+### JavaScript / TypeScript 
+
+- [sinon](https://github.com/sinonjs/sinon)
+- [jest](https://github.com/facebook/jest)
+- [CodeSandbox](https://github.com/codesandbox/)
+- [emotion](https://github.com/emotion-js/emotion)
+- [Ghost](https://github.com/TryGhost/Ghost/)
+- [pdf.js](https://github.com/mozilla/pdf.js)
+- [mocha](https://github.com/mochajs/mocha)
 
 ### Python
 
@@ -74,6 +82,7 @@ You can of course contribute to any repo you'd like so long as the repo has a co
 ### C++
 
 - [Lilypond](http://lilypond.org/)
+- [electron](https://github.com/electron/electron)
 
 ### C
 
@@ -81,7 +90,13 @@ You can of course contribute to any repo you'd like so long as the repo has a co
 
 ### Rust
 
+- [rust-clippy](https://github.com/rust-lang/rust-clippy)
+- [rustfmt](https://github.com/rust-lang/rustfmt)
+- [nushell](https://github.com/nushell/nushell)
+
 ### Go
+
+- [mattermost-server](https://github.com/mattermost/mattermost-server)
 
 ### F#
 

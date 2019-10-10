@@ -49,6 +49,8 @@ You can of course contribute to any repo you'd like so long as the repo has a co
 ### Python
 
 - [mypy](https://mypy.readthedocs.io/en/latest/)
+- [cookiecutter](https://github.com/cookiecutter/cookiecutter)
+- [requests](https://github.com/psf/requests)
 
 ### Java
 

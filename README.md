@@ -51,6 +51,13 @@ You can of course contribute to any repo you'd like so long as the repo has a co
 - [mypy](https://mypy.readthedocs.io/en/latest/)
 - [cookiecutter](https://github.com/cookiecutter/cookiecutter)
 - [requests](https://github.com/psf/requests)
+- [flask](https://github.com/pallets/flask)
+- [scikit-learn](https://github.com/scikit-learn)
+- [pandas](https://github.com/pandas-dev/pandas)
+- [luigi](https://github.com/spotify/luigi)
+- [matplotlib](https://github.com/matplotlib/matplotlib)
+- [sympy](https://github.com/sympy/sympy)
+- [pygame](https://github.com/pygame/pygame)
 
 ### Java
 

@@ -79,6 +79,8 @@ You can of course contribute to any repo you'd like so long as the repo has a co
 
 ### C#
 
+Anything on [this list](https://github.com/thangchung/awesome-dotnet-core)!
+
 ### C++
 
 - [Lilypond](http://lilypond.org/)

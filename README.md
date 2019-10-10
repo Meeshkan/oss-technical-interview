@@ -48,6 +48,8 @@ You can of course contribute to any repo you'd like so long as the repo has a co
 
 ### Python
 
+- [mypy](https://mypy.readthedocs.io/en/latest/)
+
 ### Java
 
 ### Scala
@@ -61,6 +63,8 @@ You can of course contribute to any repo you'd like so long as the repo has a co
 ### C#
 
 ### C++
+
+- [Lilypond](http://lilypond.org/)
 
 ### C
 

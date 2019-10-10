@@ -46,6 +46,7 @@ You can of course contribute to any repo you'd like so long as the repo has a co
 
 ### JavaScript / TypeScript 
 
+- [alex](https://github.com/get-alex/alex/)
 - [sinon](https://github.com/sinonjs/sinon)
 - [jest](https://github.com/facebook/jest)
 - [CodeSandbox](https://github.com/codesandbox/)

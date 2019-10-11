@@ -72,7 +72,16 @@ You can of course contribute to any repo you'd like so long as the repo has a co
 
 ### Scala
 
+- [quill](https://github.com/getquill/quill)
+- [metals](https://github.com/scalameta/metals)
+
 ### Clojure
+
+- [leiningen](https://github.com/technomancy/leiningen)
+- [metabase](https://github.com/metabase/metabase)
+- [liberator](https://github.com/clojure-liberator/liberator)
+- [lacinia](https://github.com/walmartlabs/lacinia)
+- [overtone](https://github.com/overtone/overtone)
 
 ### OCaml
 
